@@ -15,8 +15,16 @@ A simple Python command-line program that demonstrates object-oriented programmi
 # What it does
 
 The program lets you enter records for two types of students, School Students and College Students, and then prints a formatted summary of all entered records.
+[School Student]
+name: 
+roll number:
+grade:
+section:
 
-School Student: name, roll number, grade, section
-College Student: name, roll number, year, branch
+[College Student]
+name:
+roll number:
+year:
+branch:
 
 Both are subclasses of an abstract Student base class, which enforces that every student type implements its own display_info() method.
