@@ -16,11 +16,11 @@ A simple Python command-line program that demonstrates object-oriented programmi
 
 The program lets you enter records for two types of students, School Students and College Students, and then prints a formatted summary of all entered records.
 
-[School Student]
-name: 
-roll number:
-grade:
-section:
+[School Student] \n
+name: \n
+roll number: \n
+grade: \n
+section: \n
 
 [College Student]
 name:
